@@ -11,6 +11,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^30.0.4"
+    "electron": "^30.0.4",
+    "electron-updater": "^6.1.8"
+  },
+  "dependencies": {
+    "electron-drag": "^2.0.0"
   }
 }
